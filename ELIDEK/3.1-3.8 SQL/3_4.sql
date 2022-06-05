@@ -12,4 +12,5 @@ FROM(
 GROUP BY r1.organization_abbreviation,r1.years) AS b
 WHERE ( a.c1=b.c1
 	AND a.organization_abbreviation = b.organization_abbreviation 
-	AND a.years=b.years+1);
+	AND a.years=b.years+1
+      	AND a.c1 > 9);
