@@ -1,0 +1,10 @@
+insert into scientific_field (scientific_field_name) values ('LANEIGE SATIN FINISH TWIN PACT NO. 31');
+insert into scientific_field (scientific_field_name) values ('Fluocinonide');
+insert into scientific_field (scientific_field_name) values ('Hepatatox');
+insert into scientific_field (scientific_field_name) values ('Atenolol');
+insert into scientific_field (scientific_field_name) values ('Rizatriptan Benzoate');
+insert into scientific_field (scientific_field_name) values ('ASP');
+insert into scientific_field (scientific_field_name) values ('ShopRite Day Calm');
+insert into scientific_field (scientific_field_name) values ('Eve Lom Radiance Lift Foundation SPF 15');
+insert into scientific_field (scientific_field_name) values ('Bupivacaine Hydrochloride');
+insert into scientific_field (scientific_field_name) values ('TENIVAC');

@@ -1,0 +1,10 @@
+insert into university (moh_budget, organization_abbreviation) values (6121.1, 'FXKXUB');
+insert into university (moh_budget, organization_abbreviation) values (5137.8, 'BAIWSZ');
+insert into university (moh_budget, organization_abbreviation) values (9369.4, 'RJFDKL');
+insert into university (moh_budget, organization_abbreviation) values (8914.1, 'BZZWAQ');
+insert into university (moh_budget, organization_abbreviation) values (3218.7, 'ZZNPNJ');
+insert into university (moh_budget, organization_abbreviation) values (562.4, 'YDDNMY');
+insert into university (moh_budget, organization_abbreviation) values (9695.7, 'RYCYTM');
+insert into university (moh_budget, organization_abbreviation) values (218.6, 'YQGMYO');
+insert into university (moh_budget, organization_abbreviation) values (2625.7, 'ZZLZVO');
+insert into university (moh_budget, organization_abbreviation) values (9894.6, 'IGPSPF');

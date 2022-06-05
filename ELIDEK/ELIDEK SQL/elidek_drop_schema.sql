@@ -1,0 +1,16 @@
+set foreign_key_checks = 0;
+drop table if exists scientific_field;
+drop table if exists executive;
+drop table if exists program;
+drop table if exists organizations;
+drop table if exists researcher;
+drop table if exists project;
+drop table if exists evaluation;
+drop table if exists deliverable;
+drop table if exists telephone;
+drop table if exists company;
+drop table if exists university;
+drop table if exists research_center;
+drop table if exists project_scientific_field;
+drop table if exists works_on_project;
+set foreign_key_checks = 1;
